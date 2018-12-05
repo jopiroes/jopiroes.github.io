@@ -9,12 +9,11 @@ body {
 
 .menu-category {
     font-size: 2em;
-    padding-left: 10%;
 }
 
 .menu-category-light {
     font-size: 2em;
-    padding-left: 10%;
+    padding-left: 0;
 }
 
 .menu-category-narrow {
