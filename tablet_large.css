@@ -1,0 +1,327 @@
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
+
+
+    .break {
+        display: none;
+    }
+
+.return-l-s{
+    display: none;
+}
+
+    .content {
+        min-width: 900px;
+        margin: auto;
+
+    }
+
+
+header {
+
+    height: 100vh;
+    background-image: url(img/monkey.png);
+    background-size: 600px;
+    background-repeat: no-repeat;
+    background-position: right top;
+    padding: 40px;
+
+}
+
+    .slide-container: {
+        min-width: 900px;
+        max-width: 900px;
+    }
+
+
+
+
+    .ramen {
+        padding-top: 50px;
+        transform: rotate(-1.5deg);
+        height: 530px;
+
+
+    }
+
+    .ramen-container {
+        background-image: url(img/water_logo.svg), url(img/paper_rough.svg);
+        background-repeat: no-repeat;
+        background-position: 95% 95%, center;
+        background-size: 150px, cover;
+        margin-left: 0%;
+        height: 560px;
+        width: 850px;
+        margin: auto;
+
+    }
+
+
+
+
+
+
+
+    .izakaya {
+        padding-top: 0px;
+        transform: rotate(.8deg);
+        margin: auto;
+       
+
+
+    }
+
+
+
+    .izakaya-container {
+        padding-top: 70px;
+        height: 470px;
+        width: 860px;
+        background-image: url(img/paper_green.svg);
+        background-repeat: no-repeat;
+        background-position: bottom right;
+        background-size: cover;
+        margin: auto
+    }
+
+
+    .don {
+        padding-top: 15px;
+        transform: rotate(-.8deg);
+        margin: auto;
+        padding-left: 0;
+    }
+
+    .don-container {
+
+        padding-top: 120px;
+        background-image: url(img/paper_red.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 590px;
+        width: 700px;
+        margin: auto;
+
+
+    }
+
+
+
+
+    .drinks {
+        margin: auto;
+        padding-top: 80px;
+        transform: rotate(1.5deg);
+        padding-left: 0%;
+
+    }
+
+
+
+
+.glue2 {
+    height: 440px;
+    position: relative;
+
+}
+
+
+
+
+.glue3 {
+
+    height: 570px;
+    position: relative;
+
+
+
+}
+
+
+.glue4 {
+
+    height: 610px;
+    position: relative;
+
+
+}
+
+
+
+
+.glue5 {
+
+  height: 610px;
+    position: relative;
+
+
+}
+
+
+
+.slide-container {
+    height: 2950px
+}
+
+    .blank {
+        display: none;
+    }
+
+    .blank2 {
+        display: flex;
+    }
+
+
+    .drinks-container {
+        padding-left: 30px;
+        padding-bottom: 30px;
+        padding-top: 25px;
+        background-image: url(img/paperclip.svg);
+        background-repeat: no-repeat;
+        height: 465px;
+        width: 400px;
+        margin: auto;
+    }
+
+
+
+    .menu-category {
+        padding-top: 70px;
+        padding-left: 40px;
+        font-family: urw-din, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        color: #545454;
+    }
+
+
+
+
+    .menu-category-light {
+        padding-top: 50px;
+        padding-left: 40px;
+        font-family: urw-din, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        color: #fff;
+    }
+
+
+.price-light-2 {
+    display: inline-block;
+    font-family: baskerville-urw, serif;
+    font-size: 1.1em;
+    line-height: 1.2em;
+    font-weight: 800;
+    color: #fff;
+    float: right;
+}
+
+
+    .disclaimer-container {
+        padding-top: 150px;
+        width: 600px;
+        margin: auto;
+    }
+
+    .about {
+        height: 100%;
+        width: auto;
+        padding-top: 40px;
+        border-top-style: dashed;
+        border-top-color: #fff;
+    }
+
+
+    .bowl-animation {
+        width: 170px;
+        padding-left: 10%;
+        padding-top: 40px;
+
+    }
+
+
+
+    textarea {
+        width: 100px;
+    }
+
+
+
+    .contact {
+        height: 100%;
+        background-color: #fff;
+        background-image: url(img/monkey2.png);
+        background-size: 300px;
+        background-repeat: no-repeat;
+        background-position: 80% 20%;
+
+
+    }
+
+
+
+    .grid-reduced {
+
+        padding-top: 40px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 60px;
+        width: 700px;
+        margin: auto;
+
+    }
+
+  
+    .grid {
+        padding-top: 40px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 60px;
+        width: 90%;
+    }
+
+
+    .mono {
+        margin-top: 145px;
+        margin-right: 40px
+    }
+
+    .food-specs {
+        margin-top: 160px;
+        margin-left: 40px
+    }
+
+    .nav {
+        display: none;
+    }
+
+
+
+    a {
+        color: #545454;
+    }
+
+    .headline {
+        padding-top: 10px;
+        font-size: 46px;
+        padding-left: 50px;
+    }
+
+
+    .headline-black {
+        padding-top: 10px;
+        font-size: 46px;
+        padding-left: 40px;
+    }
+
+    .break2 {
+        display: none
+    }
