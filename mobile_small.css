@@ -165,7 +165,7 @@ header {
 
 .don-container {
 
-    padding-top: 1px;
+    padding-top: 0px;
     padding-left: 10%;
     background-image: url(img/paper_red_mobile.svg);
     background-repeat: no-repeat;
