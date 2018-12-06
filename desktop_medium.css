@@ -9,6 +9,16 @@
 
     }
 
+
+body {
+background-color:cadetblue;
+background-image: url();
+    padding: 0px;
+
+
+}
+
+
     .nav {
         display: none;
     }
