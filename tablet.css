@@ -151,13 +151,13 @@
 
     .don-container {
 
-        padding-top: 20px;
+        padding-top: 0px;
         padding-left: 20px;
         background-image: url(img/paper_red_thin.svg);
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
-        height: 1030px;
+        height: 1070px;
         width: 470px;
         margin: auto;
 
@@ -169,7 +169,7 @@
 
     .drinks {
         margin: auto;
-        padding-top: 1670px;
+        padding-top: 1690px;
         transform: rotate(1.5deg);
         padding-left: 7%;
 

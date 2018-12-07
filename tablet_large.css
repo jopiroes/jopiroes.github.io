@@ -93,7 +93,7 @@ header {
 
 
     .don {
-        padding-top: 15px;
+        padding-top: 30px;
         transform: rotate(-.8deg);
         margin: auto;
         padding-left: 0;
@@ -101,7 +101,7 @@ header {
 
     .don-container {
 
-        padding-top: 120px;
+        padding-top: 90px;
         background-image: url(img/paper_red.svg);
         background-repeat: no-repeat;
         background-position: center;
