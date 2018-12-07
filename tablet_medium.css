@@ -457,3 +457,40 @@ a {
 }
 
 
+
+
+
+.cg {
+    font-family: urw-din, sans-serif;
+    font-size: .9em;
+    font-weight: 600;
+    font-style: normal;
+    color: #6eb6a1;
+    text-transform: uppercase;
+
+}
+
+.v {
+    font-family: urw-din, sans-serif;
+    font-size: .9em;
+    font-weight: 600;
+    font-style: normal;
+    color: #efa500;
+    text-transform: uppercase;
+
+}
+
+.gf {
+    font-family: urw-din, sans-serif;
+    font-size: .9em;
+    font-weight: 600;
+    font-style: normal;
+    color: #545454;
+    text-transform: uppercase;
+
+}
+
+
+.food-specs{
+    width: 410px;
+}
