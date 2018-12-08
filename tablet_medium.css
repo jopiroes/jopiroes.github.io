@@ -13,7 +13,7 @@ body {
     font-size: 3em;
     color: #fff;
     text-align: center;
-    padding-top: 20vh;
+    padding-top: 100px;
 }
 
 
@@ -72,7 +72,7 @@ body {
 
 header {
 
-    height: 100vh;
+    height: 700px;
     background-image: url(img/monkey.png);
     background-size: 500px;
     background-repeat: no-repeat;
