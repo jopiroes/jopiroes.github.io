@@ -117,10 +117,10 @@ header {
     background-position: 95% 95%, top;
     background-size: 150px, cover;
     margin-left: 0%;
-    height: 1150px;
+    height: 1100px;
     width: 100%;
     margin: auto;
-    padding-top: 5%;
+    padding-top: 40px;
     padding-left: 7%;
     padding-bottom: 10px;
 
@@ -167,14 +167,14 @@ header {
 
 .don-container {
 
-    padding-top: 0px;
+    padding-top: 10px;
     padding-bottom: 5px;
     padding-left: 10%;
     background-image: url(img/paper_red_mobile.svg);
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
-    height: 930px;
+    height: 830px;
     width: 100%;
     margin: auto;
 
@@ -186,7 +186,7 @@ header {
 
 .drinks {
     width: auto;
-    padding-top: 1400px;
+    padding-top: 1280px;
     transform: rotate(0deg);
     padding-left: 0;
 
@@ -223,11 +223,11 @@ header {
 
 
 .slide-container {
-    height: 5240px
+    height: 5100px
 }
 
 .menu-category {
-    padding-top: 70px;
+    padding-top: 30px;
     padding-left: 0px;
     font-family: urw-din, sans-serif;
     font-weight: 700;
@@ -274,7 +274,7 @@ header {
 
 
 .disclaimer-container {
-    padding-top: 200px;
+    padding-top: 90px;
     width: 280px;
     margin: auto;
 }
