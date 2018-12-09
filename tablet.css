@@ -130,7 +130,8 @@
 
     .izakaya-container {
         padding-top: 50px;
-        height: 1560px;
+        padding-bottom: 40px;
+        height: 1530px;
         width: 460px;
         background-image: url(img/paper_green_thin.svg);
         background-repeat: no-repeat;
