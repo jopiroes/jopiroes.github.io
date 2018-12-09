@@ -151,13 +151,13 @@
 
     .don-container {
 
-        padding-top: 0px;
+        padding-top: 50px;
         padding-left: 20px;
         background-image: url(img/paper_red_thin.svg);
         background-repeat: no-repeat;
         background-position: left;
         background-size: cover;
-        height: 1070px;
+        height: 1010px;
         width: 470px;
         margin: auto;
 
@@ -169,7 +169,7 @@
 
     .drinks {
         margin: auto;
-        padding-top: 1690px;
+        padding-top: 1670px;
         transform: rotate(1.5deg);
         padding-left: 7%;
 
@@ -198,7 +198,7 @@
     }
 
     .menu-category {
-        padding-top: 70px;
+        padding-top: 0px;
         padding-left: 40px;
         font-family: urw-din, sans-serif;
         font-weight: 700;
