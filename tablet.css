@@ -129,8 +129,8 @@
 
 
     .izakaya-container {
-        padding-top: 0px;
-        height: 1600px;
+        padding-top: 50px;
+        height: 1560px;
         width: 460px;
         background-image: url(img/paper_green_thin.svg);
         background-repeat: no-repeat;
@@ -210,7 +210,7 @@
 
 
     .menu-category-light {
-        padding-top: 50px;
+        padding-top: 0px;
         padding-left: 40px;
         font-family: urw-din, sans-serif;
         font-weight: 700;
