@@ -117,10 +117,10 @@ header {
     background-position: 95% 95%, top;
     background-size: 150px, cover;
     margin-left: 0%;
-    height: 1100px;
+    height: 1050px;
     width: 100%;
     margin: auto;
-    padding-top: 40px;
+    padding-top: 70px;
     padding-left: 7%;
     padding-bottom: 10px;
 
@@ -167,14 +167,14 @@ header {
 
 .don-container {
 
-    padding-top: 10px;
+    padding-top: 40px;
     padding-bottom: 5px;
     padding-left: 10%;
     background-image: url(img/paper_red_mobile.svg);
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
-    height: 830px;
+    height: 790px;
     width: 100%;
     margin: auto;
 
@@ -223,11 +223,11 @@ header {
 
 
 .slide-container {
-    height: 5100px
+    height: 5060px
 }
 
 .menu-category {
-    padding-top: 30px;
+    padding-top: 0px;
     padding-left: 0px;
     font-family: urw-din, sans-serif;
     font-weight: 700;
