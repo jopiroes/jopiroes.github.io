@@ -1,5 +1,5 @@
 *{
-   
+   transform: translate3d(0px,0px,0px);
 }
 
 
@@ -12,14 +12,6 @@
         overflow-x: hidden;
 
     }
-
-.ramen-container{
-     transform: translate3d(0px,0px,0px);
-}
-
-.ramen{
-     transform: translate3d(0px,0px,0px)
-}
 
 
 
