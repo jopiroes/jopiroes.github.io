@@ -162,7 +162,7 @@ header {
     padding-top: 40px;
     padding-bottom: 5px;
     padding-left: 10%;
-    background-image: url(img/paper_red_mobile.svg);
+    background-image: url(img/paper_yellow_mobile.svg);
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
@@ -198,7 +198,7 @@ header {
     background-size: cover;
     background-position: right top;
     height: 450px;
-    width: 100%;
+    width: 101%;
 }
 
 
