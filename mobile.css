@@ -174,7 +174,7 @@ header {
 
 .drinks {
     width: inherit;
-    padding-top: 1870px;
+    padding-top: 1860px;
     padding-left: 0;
 
 
@@ -199,7 +199,7 @@ header {
 
 
 .drink-section {
-    width: 90%;
+    width: 320px;
     margin: auto;
 
 }
@@ -257,7 +257,7 @@ header {
 
 
 .disclaimer-container {
-    padding-top: 300px;
+    padding-top: 280px;
     width: 300px;
     margin: auto;
 }
@@ -431,7 +431,7 @@ a {
 
 
 .slide-container {
-    height: 6700px;
+    height: 6670px;
 }
 
 
