@@ -264,6 +264,7 @@ a:hover {
     padding-bottom: 10px;
     border-top-color: #ea6d47;
     border-top-style: solid;
+    border-top-width: medium;
 
 }
 
@@ -357,6 +358,7 @@ a:hover {
     border-top-color: #fff;
     border-top-style: double;
     padding-bottom: 5px;
+    border-top-width: medium;
 
 }
 
