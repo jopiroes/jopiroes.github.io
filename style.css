@@ -424,6 +424,7 @@ a:hover {
     width: 1000px;
     transform: rotate(-1.5deg);
     margin: auto;
+    padding-left: 10px;
    
     
 }
