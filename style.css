@@ -36,7 +36,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .content {
     background-color:#fBA100;
-  
+    min-width: 1024px;
+    max-width: 1200px;
     margin: auto;
     
  
