@@ -80,7 +80,6 @@ header {
 
 .ramen {
     padding-top: 50px;
-    transform: rotate(.5deg);
     height: auto;
 
 
@@ -93,7 +92,7 @@ header {
     background-size: 150px, cover;
     margin-left: 0%;
     height: 1250px;
-    width: 650px;
+    width: 620px;
     margin: auto;
     padding-top: 40px;
     transform: rotate(-1.5deg);
@@ -108,7 +107,6 @@ header {
 
 .izakaya {
     padding-top: 50px;
-    transform: rotate(.8deg);
     margin: auto;
 
 
@@ -119,12 +117,13 @@ header {
 .izakaya-container {
     padding-top: 20px;
     height: 1420px;
-    width: 660px;
+    width: 620px;
     background-image: url(img/paper_green_thin.svg);
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: cover;
-    margin: auto
+    margin: auto;
+    transform: rotate(.8deg);
 }
 
 
@@ -132,7 +131,6 @@ header {
     margin-left: 1%;
     padding-left: 0;
     padding-top: 400px;
-    transform: rotate(-.6deg);
     margin: auto;
 }
 
@@ -144,8 +142,9 @@ header {
     background-position: left;
     background-size: cover;
     height: 980px;
-    width: 650px;
+    width: 620px;
     margin: auto;
+    transform: rotate(-.6deg);
 
 
 }
@@ -156,23 +155,23 @@ header {
 .drinks {
     margin: auto;
     padding-top: 1400px;
-    transform: rotate(1.5deg);
-    padding-left: 5%;
+    padding-left: 0%;
 
 }
 
 
 
 .drinks-container {
-    padding-left: 65px;
+    padding-left: 45px;
     padding-bottom: 30px;
     padding-top: 75px;
     background-image: url(img/paperclip.svg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
-    width: 600px;
+    width: 550px;
     margin: auto;
+    transform: rotate(1.5deg);
 }
 
 

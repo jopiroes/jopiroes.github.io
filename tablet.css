@@ -87,7 +87,7 @@
 
     .ramen {
         padding-top: 50px;
-        transform: rotate(.7deg);
+        
         
 
     }
@@ -102,6 +102,7 @@
         width: 460px;
         margin: auto;
         padding-top: 80px;
+        transform: rotate(-.7deg);
 
     }
 
@@ -113,7 +114,6 @@
 
     .izakaya {
         padding-top: 40px;
-        transform: rotate(.8deg);
         margin: auto;
 
 
@@ -131,15 +131,15 @@
         background-position: bottom right;
         background-size: cover;
         margin: auto;
+        transform: rotate(.8deg);
 
     }
 
 
     .don {
-        margin-left: 1%;
+        margin-left: 0%;
         padding-left: 0px;
         padding-top: 600px;
-        transform: rotate(-.6deg);
         margin: auto;
     }
 
@@ -152,8 +152,9 @@
         background-position: left;
         background-size: cover;
         height: 1010px;
-        width: 470px;
+        width: 430px;
         margin: auto;
+        transform: rotate(-.7deg);
 
 
     }
@@ -164,15 +165,14 @@
     .drinks {
         margin: auto;
         padding-top: 1670px;
-        transform: rotate(1.5deg);
-        padding-left: 7%;
+        padding-left: 0%;
 
     }
 
 
 
     .drinks-container {
-        padding-left: 35px;
+        padding-left: 25px;
         padding-bottom: 30px;
         padding-top: 75px;
         background-image: url(img/paperclip.svg);
@@ -180,8 +180,9 @@
         background-size: cover;
         background-position: right top;
         height: 570px;
-        width: 450px;
+        width: 440px;
         margin: auto;
+        transform: rotate(1.5deg);
     }
 
 
@@ -273,7 +274,7 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 60px;
-        width: 700px;
+        width: 100%;
         margin: auto;
 
     }
@@ -395,7 +396,7 @@
 
 
     .slide-container {
-        height: 6170px
+        height: 6170px;
     }
 
 

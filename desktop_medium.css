@@ -1,15 +1,5 @@
-.ramen, .ramen-container{
--webkit-transform: translate3d(0, 0, 0);
-    -webkit-backface-visibility: hidden;
-}
 
-
-.ramen{
-     transform: rotate(-1.5deg);
-}
-
-
-    html,
+  
     body {
         width: 100%;
         height: 100%;
@@ -18,6 +8,42 @@
         overflow-x: hidden;
 
     }
+
+.content {
+    background-color:#fBA100;
+    min-width: 100%;
+    max-width: 100%;
+    margin: auto;
+  
+    
+ 
+}
+
+
+
+
+.drinks {
+    margin: auto;
+    padding-top: 70px;
+    padding-left: 57%;
+
+}
+
+
+
+.drinks-container {
+    padding-left: 30px;
+    padding-bottom: 40px;
+    padding-top: 25px;
+    background-image: url(img/paperclip.svg);
+    background-repeat: no-repeat;
+    height: 460px;
+    width: 400px;
+    margin: auto;
+    transform: rotate(1.5deg);
+}
+
+
 
 
 
@@ -62,6 +88,16 @@
         padding-top: 40px;
 
     }
+
+
+
+.specs-monkey {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+    height: 100px;
+}
+
 
 
 

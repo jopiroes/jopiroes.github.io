@@ -1,15 +1,4 @@
 
-    html,
-    body {
-        width: 100%;
-        height: 100%;
-        margin: 0px;
-        padding: 0px;
-        overflow-x: hidden;
-    }
-
-
-
     .break {
         display: none;
     }
@@ -47,11 +36,6 @@ header {
 }
 
 
-    .slide-container: {
-        min-width: 900px;
-        max-width: 900px;
-    }
-
 
 
 
@@ -83,8 +67,7 @@ header {
 
 
     .izakaya {
-        padding-top: 0px;
-        transform: rotate(.8deg);
+        padding-top: 0px; 
         margin: auto;
        
 
@@ -101,13 +84,13 @@ header {
         background-repeat: no-repeat;
         background-position: bottom right;
         background-size: cover;
-        margin: auto
+        margin: auto;
+        transform: rotate(.8deg);
     }
 
 
     .don {
         padding-top: 30px;
-        transform: rotate(-.8deg);
         margin: auto;
         padding-left: 0;
     }
@@ -121,6 +104,7 @@ header {
         height: 590px;
         width: 700px;
         margin: auto;
+        transform: rotate(-.8deg);
 
 
     }
@@ -131,9 +115,21 @@ header {
     .drinks {
         margin: auto;
         padding-top: 80px;
-        transform: rotate(1.5deg);
         padding-left: 0%;
 
+    }
+
+
+
+   .drinks-container {
+        padding-left: 30px;
+        padding-bottom: 30px;
+        padding-top: 25px;
+        background-image: url(img/paperclip.svg);
+        background-repeat: no-repeat;
+        height: 465px;
+        width: 400px;
+        margin: auto;
     }
 
 
@@ -142,6 +138,7 @@ header {
 .glue2 {
     height: 440px;
     position: relative;
+    
 
 }
 
@@ -180,7 +177,7 @@ header {
 
 
 .slide-container {
-    height: 2950px
+    height: 2950px;
 }
 
     .blank {
@@ -192,17 +189,7 @@ header {
     }
 
 
-    .drinks-container {
-        padding-left: 30px;
-        padding-bottom: 30px;
-        padding-top: 25px;
-        background-image: url(img/paperclip.svg);
-        background-repeat: no-repeat;
-        height: 465px;
-        width: 400px;
-        margin: auto;
-    }
-
+ 
 
 
     .menu-category {
