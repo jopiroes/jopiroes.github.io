@@ -166,7 +166,7 @@ header {
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
-    height: 790px;
+    height: 780px;
     width: inherit;
     margin: auto;
     transform: rotate(0deg);
@@ -179,7 +179,7 @@ header {
 
 .drinks {
     width: inherit;
-    padding-top: 1250px;
+    padding-top: 1240px;
     padding-left: 0;
 
 
