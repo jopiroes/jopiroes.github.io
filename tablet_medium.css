@@ -141,7 +141,7 @@ header {
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
-    height: 980px;
+    height: 1050px;
     width: 620px;
     margin: auto;
     transform: rotate(-.6deg);
@@ -154,7 +154,7 @@ header {
 
 .drinks {
     margin: auto;
-    padding-top: 1400px;
+    padding-top: 1500px;
     padding-left: 0%;
 
 }
@@ -214,7 +214,7 @@ header {
 
 
 .disclaimer-container {
-    padding-top: 10px;
+    padding-top: 100px;
     width: 600px;
     margin: auto;
 }
@@ -399,7 +399,7 @@ a {
 
 
 .slide-container {
-    height: 5400px
+    height: 5500px
 }
 
 
