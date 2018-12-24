@@ -322,6 +322,7 @@ a:hover {
 
 
 .drink-section {
+    border-top: 3px;
     border-top-style: dashed;
     border-color: antiquewhite;
     width: 320px;
