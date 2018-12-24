@@ -116,7 +116,7 @@ header {
 
 .izakaya-container {
     padding-top: 20px;
-    height: 1420px;
+    height: 1440px;
     width: 620px;
     background-image: url(img/paper_green_thin.svg);
     background-repeat: no-repeat;
@@ -130,7 +130,7 @@ header {
 .don {
     margin-left: 1%;
     padding-left: 0;
-    padding-top: 400px;
+    padding-top: 420px;
     margin: auto;
 }
 
@@ -141,7 +141,7 @@ header {
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
-    height: 1050px;
+    height: 1030px;
     width: 620px;
     margin: auto;
     transform: rotate(-.6deg);

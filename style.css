@@ -262,9 +262,10 @@ a:hover {
     font-style: normal;
     padding-top: 10px;
     padding-bottom: 10px;
+     border-top: 3px;
     border-top-color: #ea6d47;
     border-top-style: solid;
-    border-top-width: medium;
+   
 
 }
 
@@ -355,10 +356,11 @@ a:hover {
     font-size: 18px;
     font-style: normal;
     padding-top: 5px;
+    border-top: 4px;
     border-top-color: #fff;
     border-top-style: double;
     padding-bottom: 5px;
-    border-top-width: medium;
+    
 
 }
 
