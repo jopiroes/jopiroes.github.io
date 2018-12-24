@@ -102,7 +102,7 @@ header {
     background-position: 95% 95%, top;
     background-size: 150px, cover;
     margin-left: 0%;
-    height: 1570px;
+    height: 1590px;
     width: inherit;
     margin: auto;
     padding-top: 80px;
@@ -133,7 +133,7 @@ header {
 .izakaya-container {
     padding-top: 0px;
     padding-left: 7%;
-    height: 1670px;
+    height: 1690px;
     width: inherit;
     background-image: url(img/paper_green_thin.svg);
     background-repeat: no-repeat;
@@ -147,7 +147,7 @@ header {
 
 .don {
     padding-left: 0px;
-    padding-top: 670px;
+    padding-top: 690px;
     margin: auto;
     width: inherit;
 }
@@ -161,7 +161,7 @@ header {
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
-    height: 1150px;
+    height: 1170px;
     width: inherit;
     margin: auto;
     transform: rotate(0deg);
@@ -174,7 +174,7 @@ header {
 
 .drinks {
     width: inherit;
-    padding-top: 1900px;
+    padding-top: 1930px;
     padding-left: 0;
 
 
