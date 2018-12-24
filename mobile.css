@@ -1,11 +1,9 @@
-
-
 .menu-category {
-    font-size: 2em;    
+    font-size: 2em;
 }
 
 .menu-category-light {
-    font-size: 2em;   
+    font-size: 2em;
 }
 
 .menu-category-narrow {
@@ -46,6 +44,7 @@
 .content {
     background-color: #fBA100;
     min-width: 300px;
+    width: 100%;
     margin: auto;
     padding: 0;
 
@@ -91,7 +90,8 @@ header {
 
 .ramen {
     padding-top: 0px;
-    
+    width: inherit;
+
 
 
 }
@@ -102,8 +102,8 @@ header {
     background-position: 95% 95%, top;
     background-size: 150px, cover;
     margin-left: 0%;
-    height: 1530px;
-    width: 100%;
+    height: 1570px;
+    width: inherit;
     margin: auto;
     padding-top: 80px;
     padding-left: 7%;
@@ -122,6 +122,7 @@ header {
 .izakaya {
     padding-top: 30px;
     margin: auto;
+    width: inherit;
 
 
 
@@ -132,8 +133,8 @@ header {
 .izakaya-container {
     padding-top: 0px;
     padding-left: 7%;
-    height: 1620px;
-    width: 95%;
+    height: 1670px;
+    width: inherit;
     background-image: url(img/paper_green_thin.svg);
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -146,8 +147,9 @@ header {
 
 .don {
     padding-left: 0px;
-    padding-top: 630px;
+    padding-top: 670px;
     margin: auto;
+    width: inherit;
 }
 
 .don-container {
@@ -159,8 +161,8 @@ header {
     background-repeat: no-repeat;
     background-position: left;
     background-size: cover;
-    height: 1100px;
-    width: 100%;
+    height: 1150px;
+    width: inherit;
     margin: auto;
     transform: rotate(0deg);
 
@@ -171,9 +173,8 @@ header {
 
 
 .drinks {
-    width: auto;
-    padding-top: 1800px;
-    padding-top: 1800px;
+    width: inherit;
+    padding-top: 1900px;
     padding-left: 0;
 
 
@@ -192,13 +193,13 @@ header {
     background-size: cover;
     background-position: right top;
     height: 500px;
-    width: 101%;
+    width: inherit;
     transform: rotate(0deg);
 }
 
 
 .drink-section {
-    width: 320px;
+    width: 90%;
     margin: auto;
 
 }
@@ -222,7 +223,7 @@ header {
 
 .menu-category-light {
     padding-top: 50px;
-     padding-left: 0px;
+    padding-left: 0px;
     font-family: urw-din, sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -232,7 +233,7 @@ header {
 
 .menu-category-light2 {
     padding-top: 50px;
-     padding-left: 0%;
+    padding-left: 0%;
     font-family: urw-din, sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -256,14 +257,14 @@ header {
 
 
 .disclaimer-container {
-    padding-top: 200px;
+    padding-top: 300px;
     width: 300px;
     margin: auto;
 }
 
 .about {
     height: 100%;
-    width: auto;
+    width: inherit;
     padding-top: 40px;
     border-top-style: dashed;
     border-top-color: #fff;
@@ -286,12 +287,13 @@ textarea {
 
 
 .contact {
-    height: 100%;
     background-color: #fff;
     background-image: url();
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: 80% 40%;
+    width: cover;
+
 
 
 }
@@ -301,10 +303,11 @@ textarea {
 .grid-reduced {
 
     padding-top: 40px;
+    padding-left: 0px;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     grid-gap: 60px;
-    width: 700px;
+    width: inherit;
     margin: auto;
 
 }
@@ -323,14 +326,19 @@ textarea {
 }
 
 
+.grid-about {
+    width: 100%;
+}
+
 
 .menu-grid {
     padding-top: 30px;
     padding-left: 0px;
+    padding-right: 0px;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 60px;
-    width: 320px;
+    width: 300px;
 
 
 }
@@ -338,10 +346,11 @@ textarea {
 .menu-grid2 {
     padding-top: 30px;
     padding-left: 0%;
+    padding-right: 0%;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-gap: 40px;
-    width: 320px;
+    width: 300px;
     margin: auto;
 }
 
@@ -382,7 +391,7 @@ textarea {
 }
 
 .mono {
-   
+
     margin: auto;
     position: relative;
     bottom: 0;
@@ -422,7 +431,7 @@ a {
 
 
 .slide-container {
-    height: 6550px
+    height: 6700px;
 }
 
 
@@ -458,7 +467,7 @@ a {
 
 .social {
     padding-top: 40px;
-    width: 400px;
+    width: inherit;
 }
 
 .social-icon {
@@ -468,13 +477,17 @@ a {
 
 .info {
     padding-bottom: 20px;
-    width: 90%;
+    width: 80%;
     padding-left: 40px;
 }
 
 
 .b-thin {
-    width: 300px;
+    width: inherit;
+}
+
+b {
+    width: inherit;
 }
 
 .b2 {
@@ -492,7 +505,7 @@ a {
 }
 
 
-.return-l-s{
+.return-l-s {
     display: inline;
 }
 
@@ -541,8 +554,7 @@ a {
     padding-top: 190px;
     position: -webkit-sticky;
     position: sticky;
-    bottom: 0
-    bottom: 20px;
+    bottom: 0 bottom: 20px;
     margin: auto;
     animation-timing-function: ease-in;
 }
