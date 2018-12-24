@@ -581,6 +581,7 @@ a:hover {
 .about {
     height: 100%;
     padding-top: 20px;
+    border-top:4px;
     border-top-style: dashed;
     border-top-color: #fff;
 }
