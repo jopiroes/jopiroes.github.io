@@ -1,7 +1,7 @@
 $(function() {
     
 //    tunr smooth scroll
-    $('html').smoothScroll(1000);
+    $('html').smoothScroll(800);
 	
    
 
