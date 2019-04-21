@@ -4,10 +4,6 @@
 
 }
 
-body {
-scroll-behavior: smooth;
-
-}
 
 body:after {
     content: url(img/monkey.png) url(img/akasaru_logo.svg);
